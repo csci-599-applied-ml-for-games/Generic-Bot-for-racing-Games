@@ -1,1 +1,1 @@
-# Generic-Bot-for-racing-Games
+# Generic Bot for Racing Games
